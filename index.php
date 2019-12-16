@@ -49,7 +49,6 @@
                     <li>PHP Object Injection via Cookies</li>
                     <li>PHP Object Injection (Object Reference)</li>
                     <li>PHP Object Injection via Cookies</li>
-                    <li>SSTI</li>
                     <li>SSRF</li>
                     <li>Variables variable</li>
                   </ul>

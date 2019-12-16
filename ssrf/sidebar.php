@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>RCE</title>
+  <title>PHAR Deserialization</title>
   <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
@@ -21,6 +21,7 @@
 
       <!-- Sidebar - Brand -->
       <a class="sidebar-brand d-flex align-items-center justify-content-center" href="../index.php">
+
         <div class="sidebar-brand-text mx-3">LKWA</div>
       </a>
 
@@ -42,7 +43,7 @@
       </div>
       <!-- Nav Item - Charts -->
       <li class="nav-item">
-        <a class="nav-link" href="blind_rce.php">
+        <a class="nav-link" href="../rce/blind_rce.php">
           <span>Blind RCE</span></a>
       </li>
 
@@ -68,13 +69,13 @@
           <span>PHAR Deserialization</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../ssrf/index.php">
+        <a class="nav-link" href="index.php">
           <span>SSRF</span></a>
       </li>
      <li class="nav-item">
         <a class="nav-link" href="../variables/variable.php">
           <span>Variables variable</span></a>
-      </li>       
+      </li>          
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
 

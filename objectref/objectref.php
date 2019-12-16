@@ -1,6 +1,6 @@
 <?php
 include("sidebar.php");
-class Object
+class Object1
 {
   var $guess;
   var $secretCode;
@@ -8,7 +8,7 @@ class Object
 
 // Hint
 // O:8:"stdClass":2:{s:5:"guess";N;s:10:"secretCode";R:2;}
-// http://localhost:8082/LKWA/objectref/objectref.php?input=O:8:"stdClass":2:{s:10:"secretCode";N;s:5:"guess";R:2;}
+// http://localhost/LKWA/objectref/objectref.php?input=O:8:"stdClass":2:{s:10:"secretCode";N;s:5:"guess";R:2;}
 ?>
 
 <!DOCTYPE html>
@@ -19,18 +19,12 @@ class Object
   </head>
   <body>
     <div class="container-fluid">
-
-        <!-- Page Heading -->
-        <div class="d-sm-flex align-items-center justify-content-between mb-4">
-          <h1 class="h3 mb-0 text-gray-800"></h1>
-        </div>
-
         <div class="row">
           <div class="col-lg-12 mb-12">
             <!-- Approach -->
             <div class="card shadow mb-4">
               <div class="card-header py-3">
-                <h6 class="m-0 font-weight-bold text-primary">Object Reference</h6>
+                <h6 class="m-0 font-weight-bold text-primary">Object Injection (Object Reference)</h6>
               </div>
               <div class="card-body">
               <form action="objectref.php" method="post">

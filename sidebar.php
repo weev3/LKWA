@@ -69,6 +69,14 @@
         <a class="nav-link" href="phar_deserial/phar_deserial.php">
           <span>PHAR Deserialization</span></a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="ssrf/index.php">
+          <span>SSRF</span></a>
+      </li>    
+     <li class="nav-item">
+        <a class="nav-link" href="../variables/variable.php">
+          <span>Variables variable</span></a>
+      </li>         
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
 

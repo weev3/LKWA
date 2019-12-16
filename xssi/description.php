@@ -6,8 +6,11 @@
         <h6 class="m-0 font-weight-bold text-primary">Attack Description</h6>
       </div>
       <div class="card-body">
-        <p>SB Admin 2 makes extensive use of Bootstrap 4 utility classes in order to reduce CSS bloat and poor page performance. Custom CSS classes are used to create custom components and custom utility classes.</p>
-        <p class="mb-0">Before working with this theme, you should become familiar with the Bootstrap framework, especially the utility classes.</p>
+        <p>Cross-Site Script Inclusion (XSSI) is an attack that can steal users' PII data like e-mail, postal address, birthday or sensitive data like authentication tokens, cookies that generates using dynamic JavaScript or JSONP.</p>
+        <h5>Reference</h5>
+        <p>https://www.scip.ch/en/?labs.20160414</p>
+        <p>https://www.owasp.org/images/9/9a/20160607-xssi-the_tale_of_a_fameless_but_widepsread_vulnerability-Veit_Hailperin.pdf</p>
+        <p>https://carloalbertoscola.it/notes/2018/04/23/xssi-and-xss.html</p>
       </div>
     </div>
 

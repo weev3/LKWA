@@ -61,14 +61,21 @@
           <span>PHP Object Injection(cookie)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../objectinjection_cookie/content.php">
+        <a class="nav-link" href="objectref.php">
           <span>PHP Object Injection (Object Reference)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="../phar_deserial/phar_deserial.php">
           <span>PHAR Deserialization</span></a>
       </li>
-
+      <li class="nav-item">
+        <a class="nav-link" href="../ssrf/index.php">
+          <span>SSRF</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../variables/variable.php">
+          <span>Variables variable</span></a>
+      </li>      
       <!-- Divider -->
       <hr class="sidebar-divider d-none d-md-block">
 

@@ -6,12 +6,13 @@
       </div>
       <div class="card-body">
         <p class="">add </p><p class="text-danger">?file=file.phar</p><p>at the end of the file.</p>
+        <p>Try to upload shell.</p>
       </div>
     </div>
 
   </div>
-
 </div>
+
 <div class="row">
   <div class="col-lg-12 mb-12">
     <div class="card shadow mb-4">
@@ -33,5 +34,18 @@ PHAR files may be in one of three formats: tar, and ZIP, which are compatible wi
     </div>
 
   </div>
+</div>
 
+<div class="row">
+  <div class="col-lg-12 mb-12">
+    <div class="card shadow mb-4">
+      <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Hint (Only for surrender)</h6>
+      </div>
+      <div class="card-body">
+        <p>If you got stuck, there is a genphar.php file that located in phar_deserial folder.</p>
+      </div>
+    </div>
+
+  </div>
 </div>
