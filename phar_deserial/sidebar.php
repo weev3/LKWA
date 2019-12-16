@@ -46,7 +46,7 @@
         <a class="nav-link" href="../rce/blind_rce.php">
           <span>Blind RCE</span></a>
       </li>
-      
+
       <!-- Nav Item - Tables -->
       <li class="nav-item">
         <a class="nav-link" href="../xssi/xssi.php">
@@ -59,6 +59,10 @@
       <li class="nav-item">
         <a class="nav-link" href="../objectinjection_cookie/content.php">
           <span>PHP Object Injection(cookie)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="../objectref/objectref.php">
+          <span>PHP Object Injection (Object Reference)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="phar_deserial.php">

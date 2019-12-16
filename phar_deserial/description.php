@@ -16,7 +16,7 @@
   <div class="col-lg-12 mb-12">
     <div class="card shadow mb-4">
       <div class="card-header py-3">
-        <h6 class="m-0 font-weight-bold text-primary">Description</h6>
+        <h6 class="m-0 font-weight-bold text-primary">Attack Description</h6>
       </div>
       <div class="card-body">
         <p>PHAR (PHP Archive) file is a package format to enable distribution of applications and libraries by bundling many PHP code files and other resources (e.g. images, stylesheets, etc.) into a single archive file.
@@ -35,5 +35,3 @@ PHAR files may be in one of three formats: tar, and ZIP, which are compatible wi
   </div>
 
 </div>
-
-

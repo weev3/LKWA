@@ -34,10 +34,17 @@ header("location: xssi.php");
                 </div>
                 <div class="card-body">
                 <form action="index.php" method="post">
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Username</label>
+                    <input type="text" class="form-control" placeholder="Enter username" name="username">
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleInputPassword1">Password</label>
+                    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="password">
+                  </div>
+                  <button type="submit" class="btn btn-primary">Submit</button>
                   <p class="text-danger"> Login with username=admin and password=password.</p>
-                  User Name: <input type="text" name="username">
-                  Password : <input type="password" name="password">
-                  <input type="submit" value="LogIn">
+
                 </form>
                 </div>
               </div>
@@ -45,6 +52,6 @@ header("location: xssi.php");
           </div>
           <?php include("description.php"); ?>
       </div>
- 
+
   </body>
 </html>
