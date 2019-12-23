@@ -12,7 +12,6 @@ Just clone the git with ` git clone https://github.com/weev3/LKWA ` and move it 
 * PHP Object Injection
 * PHP Object Injection via Cookies
 * PHP Object Injection (Object Reference)
-* PHP Object Injection via Cookies
 * SSRF
 * Variables variable
 
