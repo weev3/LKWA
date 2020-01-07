@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+    web:
+        image: webdevops/php-nginx:alpine
+        build:
+            context: .
+            dockerfile: Dockerfile
+        environment:
+            - WEB_DOCUMENT_ROOT=/usr/share/nginx/html/
+            - php.phar.readonly='Off'
+        ports:
+            - "3000:80"
