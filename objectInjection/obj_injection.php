@@ -1,8 +1,6 @@
 <?php
 
-/**
- * Blind RCE
- */
+
 class Foo{
     function __construct($filename, $data) {
         $this->filename = $filename . ".txt";
