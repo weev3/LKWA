@@ -56,7 +56,7 @@
           <span>PHP Object Injection</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../objectinjection_cookie/content.php">
+        <a class="nav-link" href="../objectInjection_cookie/content.php">
           <span>PHP Object Injection(cookie)</span></a>
       </li>
       <li class="nav-item">
