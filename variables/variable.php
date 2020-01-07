@@ -5,7 +5,7 @@ include("sidebar.php");
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Blind RCE</title>
+    <title>Variables variable</title>
 </head>
 <body>
     <div class="container-fluid">
