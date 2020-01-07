@@ -52,7 +52,7 @@
           <span>XSSI</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../objectinjection/content.php">
+        <a class="nav-link" href="../objectInjection/content.php">
           <span>PHP Object Injection</span></a>
       </li>
       <li class="nav-item">
