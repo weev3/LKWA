@@ -1,6 +1,6 @@
 # LKWA
 
-Lesser Known Web Attack Lab is for intermediate pentester that can test and practice lesser known web attacks such as Object Injection, XSSI, PHAR Deserialization, variables variable ..etc. Write-ups are welcome.
+Lesser Known Web Attack Lab is for intermediate pentester that can test and practice lesser known web attacks such as Object Injection, XSSI, PHAR Deserialization, variables variable ..etc. Write-ups are welcome. My own walk-through is [here](https://ihackyou3000.com/2019/12/22/lesser-known-web-attacklkwa-walk-through/) .
 
 # Installation
 
