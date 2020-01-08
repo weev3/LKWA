@@ -74,7 +74,7 @@
           <span>SSRF</span></a>
       </li>    
      <li class="nav-item">
-        <a class="nav-link" href="../variables/variable.php">
+        <a class="nav-link" href="variables/variable.php">
           <span>Variables variable</span></a>
       </li>         
       <!-- Divider -->
