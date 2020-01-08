@@ -22,3 +22,8 @@ Just run `docker-compose up` inside the _Docker_ folder and open the browser on 
 - Variables variable
 
 ![Image of Yaktocat](/images/lkwa.png)
+
+
+# Contributors 
+
+- Edoardo Rosa (@edoz90)
