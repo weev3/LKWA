@@ -2,7 +2,7 @@
 include("sidebar.php");
 if (isset($_GET['image'])) {
 	# code...
-	file_get_contents($_GET['image'], true);
+	echo file_get_contents($_GET['image'], true);
 }
 ?>
 <!DOCTYPE html>
