@@ -6,6 +6,9 @@ Lesser Known Web Attack Lab is for intermediate pentester that can test and prac
 
 Just clone the git with `git clone https://github.com/weev3/LKWA` and move it to your web server and you are good to go.
 
+* For XSSI, challenge you need to change **Allow Override None** to **Allow Override ALL** in apache2.conf file.
+* For PHAR Deserialization, you need to change **phar.readonly = On** to **phar.readonly = Off** in **php.ini** setting.
+
 # Installation - Docker
 
 Just run `docker-compose up` inside the _Docker_ folder and open the browser on <http://localhost:3000>.
