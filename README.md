@@ -12,7 +12,7 @@ Just clone the git with `git clone https://github.com/weev3/LKWA` and move it to
 # Installation - Docker
 
 * Just run `docker-compose up` inside the _Docker_ folder and open the browser on <http://localhost:3000>.
-* For Docker Hub run ` docker pull kminthein/lkwa:v1 ` then run ` docker run -ti -p 3000:80 kminthein/lkwa:v1 `
+* For Docker Hub run ` docker pull kminthein/lkwa:latest ` then run ` docker run -ti -p 3000:80 kminthein/lkwa:latest `
 
 # Current Vulns
 
