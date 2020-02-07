@@ -4,4 +4,4 @@ services:
     build: .
     ports:
       - "3000:80"
-    container_name: "weev"
+    container_name: "lkwa"
