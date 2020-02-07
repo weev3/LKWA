@@ -2,7 +2,7 @@
 
 Lesser Known Web Attack Lab is for intermediate pentester that can test and practice lesser known web attacks such as Object Injection, XSSI, PHAR Deserialization, variables variable ..etc. Write-ups are welcome. My own walk-through is [here](https://ihackyou3000.com/2019/12/22/lesser-known-web-attacklkwa-walk-through/) .
 
-# Installation
+# Installation - Local
 
 Just clone the git with `git clone https://github.com/weev3/LKWA` and move it to your web server and you are good to go.
 
